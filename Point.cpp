@@ -1,11 +1,11 @@
 //
-// Point.h
+
 #ifndef POINT_H
 #define POINT_H
 
 #endif // POINT_H
 #include <sstream>
-// Point.cpp
+
 #include "Point.h"
 
 // Constructor implementation

@@ -1,5 +1,5 @@
 //
-// Created by citygirls on 5/12/24.
+// Created by Jemima ELONGO on 5/12/24.
 //
 
 #ifndef POINTCLASS_POINT_H
